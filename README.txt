@@ -5,5 +5,5 @@ In order to integrate the code into PBRT system (only version 2 is supported),
 please put "heightfield2.cpp" and "heightfield2.h" under <pbrt_folder>/src/shapes/.
 (the 4 other files are for comparison only)
 
-Then change the original <pbrt_folder>/src/cameras/api.cpp to
+Then change the original <pbrt_folder>/src/core/api.cpp to
 "api.cpp" in this repository.
